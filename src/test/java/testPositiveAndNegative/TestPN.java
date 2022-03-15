@@ -24,24 +24,24 @@ public class TestPN {
     void test03() {
         assertTrue(true);
     }
-
-    @Test
-    @Step("Тест 4")
-    void test04() {
-        assertTrue(false);
-    }
-
-    @Test
-    @Step("Тест 5")
-    void test05() {
-        assertTrue(false);
-    }
-
-    @Test
-    @Step("Тест 6")
-    void test06() {
-        assertTrue(false);
-    }
+//
+//    @Test
+//    @Step("Тест 4")
+//    void test04() {
+//        assertTrue(false);
+//    }
+//
+//    @Test
+//    @Step("Тест 5")
+//    void test05() {
+//        assertTrue(false);
+//    }
+//
+//    @Test
+//    @Step("Тест 6")
+//    void test06() {
+//        assertTrue(false);
+//    }
 
 
 }
